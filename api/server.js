@@ -14,6 +14,11 @@ server.use(router)
 server.listen(3000, () => {
     console.log('JSON Server is running')
 })
+server.use(jsonServer.rewriter({
+    '/api/*': '/$1',
+    '/product/:resource/:id/show': '/:resource/:id',
+    '/registrar': '/users' // Nueva regla para /registrar
+}))
 
 // Export the Server API
 module.exports = server
