@@ -13,7 +13,7 @@
           "id": "1",
           "name": "Kylo REN",
           "price": 199.99,
-          "image": "/images/Star Wars/f59c8fc93dd4c73cda3d0cb7a0c758a8.webp"
+          "image": "/images/Star Wars/Star-Wars-Kylo-Ren-PNG-Pic.webp"
         },
         {
           "category": "Star Wars",
@@ -21,7 +21,7 @@
           "id": "2",
           "name": "Taza Stormtrooper",
           "price": 149.99,
-          "image": "/images/Star Wars/839c11fc3105027e126215f3647fa5b0.webp"
+          "image": "/images/Star Wars/trooper-taza4-93151cff7c9f38eed115622609230225-1024-1024.png"
         },
         {
           "category": "Star Wars",
@@ -29,7 +29,7 @@
           "id": "3",
           "name": "Figura Stormtrooper",
           "price": 199.99,
-          "image": "/images/Star Wars/2af26846110fb131c9617e7af1a8d724.webp"
+          "image": "/images/Star Wars/5982692598444b919a406bbbfaee5e00.webp"
         },
         {
           "category": "Star Wars",
@@ -37,15 +37,15 @@
           "id": "4",
           "name": "Darth Vader",
           "price": 199.99,
-          "image": "/images/Star Wars/31785f700a9fb63c75604c23eb944720.webp"
+          "image": "/images/Star Wars/e226abf1b12a3e9cc8c661e987ad1383.png"
         },
         {
           "category": "Star Wars",
           "color": "#FF4343",
           "id": "5",
-          "name": "Figura Yoda",
+          "name": "The Mandalorian",
           "price": 149.99,
-          "image": "/images/Star Wars/c4cea6462e083470202684c700aa5a07.webp"
+          "image": "/images/Star Wars/Mandalorian.png"
         },
         {
           "category": "Star Wars",
@@ -58,7 +58,15 @@
         {
           "category": "Star Wars",
           "color": "#FF4343",
-          "id": "6",
+          "id": "10",
+          "name": "Solo",
+          "price": 149.99,
+          "image": "/images/Star Wars/Daco_4176207.png"
+        },
+        {
+          "category": "Star Wars",
+          "color": "#FF4343",
+          "id": "11",
           "name": "Grogu",
           "price": 149.99,
           "image": "/images/Star Wars/Grogu.webp"
@@ -66,23 +74,15 @@
         {
           "category": "Star Wars",
           "color": "#FF4343",
-          "id": "6",
-          "name": "Grogu",
-          "price": 149.99,
-          "image": "/images/Star Wars/Grogu.webp"
-        },
-        {
-          "category": "Star Wars",
-          "color": "#FF4343",
-          "id": "6",
-          "name": "Grogu",
+          "id": "12",
+          "name": "Camisa Star Wars",
           "price": 149.99,
           "image": "/images/Star Wars/Grogu.webp"
         },
         {
           "category": "Consolas",
           "color": "#2A7AE4",
-          "id": "7",
+          "id": "13",
           "name": "DualSense Play Station",
           "price": 499.99,
           "image": "/images/Consoles/unsplash_0POwK6iAiRQ.png"
