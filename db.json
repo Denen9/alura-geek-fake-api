@@ -10,18 +10,10 @@
         {
           "category": "Star Wars",
           "color": "#FF4343",
-          "id": "1",
-          "name": "Kylo REN",
-          "price": 199.99,
-          "image": "/images/Star Wars/Star-Wars-Kylo-Ren-PNG-Pic.webp"
-        },
-        {
-          "category": "Star Wars",
-          "color": "#FF4343",
-          "id": "2",
-          "name": "Taza Stormtrooper",
+          "id": "6",
+          "name": "Grogu",
           "price": 149.99,
-          "image": "/images/Star Wars/trooper-taza4-93151cff7c9f38eed115622609230225-1024-1024.png"
+          "image": "/images/Star Wars/Grogu.webp"
         },
         {
           "category": "Star Wars",
@@ -50,10 +42,18 @@
         {
           "category": "Star Wars",
           "color": "#FF4343",
-          "id": "6",
-          "name": "Grogu",
+          "id": "1",
+          "name": "Kylo REN",
+          "price": 199.99,
+          "image": "/images/Star Wars/Star-Wars-Kylo-Ren-PNG-Pic.webp"
+        },
+        {
+          "category": "Star Wars",
+          "color": "#FF4343",
+          "id": "2",
+          "name": "Taza Stormtrooper",
           "price": 149.99,
-          "image": "/images/Star Wars/Grogu.webp"
+          "image": "/images/Star Wars/trooper-taza4-93151cff7c9f38eed115622609230225-1024-1024.png"
         },
         {
           "category": "Star Wars",
@@ -66,18 +66,10 @@
         {
           "category": "Star Wars",
           "color": "#FF4343",
-          "id": "11",
-          "name": "Grogu",
-          "price": 149.99,
-          "image": "/images/Star Wars/Grogu.webp"
-        },
-        {
-          "category": "Star Wars",
-          "color": "#FF4343",
           "id": "12",
           "name": "Camisa Star Wars",
           "price": 149.99,
-          "image": "/images/Star Wars/Grogu.webp"
+          "image": "/images/Star Wars/A13usaonutL._AC_CLa_2140,2000_61Zf5Zxu3kL.png_0,0,2140,2000+0.0,0.0,2140.0,2000.0_UY1000_.png"
         },
         {
           "category": "Consolas",
@@ -85,7 +77,7 @@
           "id": "13",
           "name": "DualSense Play Station",
           "price": 499.99,
-          "image": "/images/Consoles/unsplash_0POwK6iAiRQ.png"
+          "image": "/images/Consoles/1000_1300-dualsense_edge.png"
         },
         {
           "category": "Consolas",
@@ -93,7 +85,7 @@
           "id": "8",
           "name": "Play Station 5",
           "price": 449.99,
-          "image": "/images/Consoles/unsplash_caNzzoxls8Q.png"
+          "image": "/images/Consoles/pngaaa.com-3365542.png"
         },
         {
           "category": "Consolas",
@@ -109,15 +101,23 @@
           "id": "10",
           "name": "Xbox Series X",
           "price": 299.99,
-          "image": "/images/Consoles/unsplash_Zjn4dT993-g.png"
+          "image": "/images/Consoles/fbd2cb56-5c25-414d-9f46-e6a164cdf5be.png"
+        },
+        {
+          "category": "Consolas",
+          "color": "#2A7AE4",
+          "id": "10",
+          "name": "Xbox Series S",
+          "price": 299.99,
+          "image": "/images/Consoles/eaf2bd1e-f245-448b-891b-b276b32a8a24.png"
         },
         {
           "category": "Consolas",
           "color": "#2A7AE4",
           "id": "11",
-          "name": "Nintendo",
+          "name": "Nintendo 64",
           "price": 299.99,
-          "image": "/images/Consoles/unsplash_ZV7lnfyQLmA.png"
+          "image": "/images/Consoles/N64-Console-Set.png"
         },
         {
           "category": "Otros",
@@ -125,7 +125,7 @@
           "id": "12",
           "name": "Camisa SNES",
           "price": 599.99,
-          "image": "/images/Others/unsplash_bUgaIaZysH0.png"
+          "image": "/images/Others/snes21-bd8841a75e9e09e9bd16201887591533-1024-1024.png"
         },
         {
           "category": "Otros",
@@ -133,7 +133,7 @@
           "id": "13",
           "name": "Camisa Atari",
           "price": 899.99,
-          "image": "/images/Others/unsplash_fMP-oCze3AY.png"
+          "image": "/images/Others/camiseta-atari-entertainment-technologies-0a8.png"
         },
         {
           "category": "Otros",
@@ -141,7 +141,7 @@
           "id": "14",
           "name": "Visor y controles VR",
           "price": 899.99,
-          "image": "/images/Others/unsplash_MxVkWPiJALs.png"
+          "image": "/images/Others/587549b71063eb350d61bef5.png"
         },
         {
           "category": "Otros",
@@ -149,7 +149,7 @@
           "id": "15",
           "name": "Pikachu",
           "price": 599.99,
-          "image": "/images/Others/unsplash_r27umXAelDc.png"
+          "image": "/images/Others/de2gr4i-03bd3dc2-7614-4673-b056-45ac381793ad.png"
         },
         {
           "category": "Otros",
@@ -157,7 +157,7 @@
           "id": "16",
           "name": "Sonic",
           "price": 899.99,
-          "image": "/images/Others/unsplash_sYVY_ZKwaxU.png"
+          "image": "/images/Others/sonic_nendoroid__png__by_autism79_de5v9mi-fullview.png"
         }
       
     ],
